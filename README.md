@@ -8,8 +8,7 @@ Verified in simulation with Icarus Verilog. It has not been synthesized or run o
 
 | File | What it is |
 |------|------------|
-| `transmitter.sv` | UART transmitter |
-| `receiver.sv` | UART receiver |
+| `design.sv` | UART transmitter |
 | `tb_uart.sv` | Self-checking testbench (transmitter wired to receiver) |
 
 ## Frame format
