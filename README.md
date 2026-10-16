@@ -100,6 +100,12 @@ The loopback checks use a queue of expected bytes, so order and values are both 
 - No parity bit, no FIFO, and no oversampling. The receiver samples once per bit.
 - Not yet synthesized or tested on hardware.
 
+
+## Waveform 
+
+<img width="818" height="511" alt="Capture" src="https://github.com/user-attachments/assets/149665a5-cc05-4f6b-987f-eecfe75e34df" />
+
+
 ## Possible next steps
 
 - Run through an open-source synthesis flow (Yosys + nextpnr) and record utilization and timing.
